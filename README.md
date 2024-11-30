@@ -14,7 +14,7 @@ A basic warmup exercise. Simple, practice oriented, clone of the Netflix Homepag
 
 - HTML
 - CSS
-- Vanilla JS - ES6
+
 
 
 ## What it does
